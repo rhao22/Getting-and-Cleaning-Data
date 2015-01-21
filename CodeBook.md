@@ -1,5 +1,8 @@
 -The 2 first coclumns : subject  and activity :show the subject number and the activity (s)he was doing 
+
 -The other columns show the mean of the different means and standard deviation given in the data set
+
+
 tBodyAcc-mean()-X 
 tBodyAcc-mean()-Y 
 tBodyAcc-mean()-Z 
